@@ -1,0 +1,209 @@
+.center{
+	text-align: center;	
+}
+.titleDetails{
+	font-size: 21px;	
+	font-weight: bold;
+}
+.paraDetail{
+	padding-top: 10px;
+	font-size: 15px;
+}
+
+.divMenu img{
+	height:80px;
+	margin: 10px;
+
+}
+.divMenu{
+text-align: center;
+height: 50%;
+width: 100%;
+}
+.panelMain{		
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#47b945), color-stop(54%,#3bb438), color-stop(75%,#36b230), color-stop(100%,#2ba81e)); /* Chrome,Safari4+ */
+
+
+}
+.panelMain .x-innerhtml{
+	padding-top:10px;
+}	
+/*.x-carousel-indicator-dark span {
+background-color: #20A447;
+}*/
+.x-carousel-indicator-dark span.x-carousel-indicator-active {
+background-color: #20A447;
+}
+.x-carousel-indicator-dark span {
+
+background-color: #fff;
+}
+.gray_container{
+	position: absolute;
+    bottom: 0;
+    height:60px;
+    opacity: .8;
+    background: #6E6F6E;
+    width:100%;
+    color:#fff;
+    font-size:12px;    
+}
+.gray_container_text{
+	padding:10px;
+	text-align: center;
+}
+.parent_container{
+	position: relative;
+}
+.parent_container .x-innerhtml{
+/*	text-align: center;
+	padding-top:50px;*/
+	display: table-cell; vertical-align: middle 
+}
+.x-toolbar-dark {
+border:0px !important;
+}
+.divMenu img:active{
+	opacity:.8;
+}
+.carousel_image{
+	width: 100%;height: 100%;position: absolute;
+}
+.logo_image{
+	position: relative;
+
+}
+.carousel_image_cont{
+	display: table-cell;text-align: center;width: 100%;height: 100%;position: absolute;vertical-align: middle;
+	padding-top:50px;
+}
+.carousel_image_cont img{
+	height:100px;
+}
+.clsLabel{
+	color:#23B14E !important;
+	padding: 5px !important;	
+}
+.clsLabel span{
+color:#23B14E !important;
+text-shadow: none;
+}
+.clsDisable{
+	color:#000 !important;
+}
+.panelGallery{
+	padding:10px;
+}
+.panelGallery img{
+	margin:5px;
+	float: left;
+	border:solid 1px black;
+	height:100px;
+	width:100px;
+}
+.tplAboutEvent div:nth-child(even){
+background: #fff;
+font-size:15px;
+font-weight: bold;
+}
+.tplAboutEvent div:nth-child(odd){
+background: #ccc;
+font-size:14px;
+}
+.tplAboutEvent div{
+	padding: 10px;
+}
+
+
+/*.x-button-normal.x-button.btnCall.x-layout-box-item.x-stretched{
+	background: url('../../images/call-btn.png') no-repeat fixed center !important;
+	background-color:none;
+}*/
+.divBottomMap img{
+	
+	height: 35px;
+	vertical-align:middle;
+}
+.divBottomMap{
+	
+	height: 50px;
+}
+.divBottomMap img{
+	/*float: left;
+	height: 40px;
+	vertical-align:middle;*/
+}
+.divBottomMap{
+	float: left;
+	width: 33.3%;
+	padding-top:5px;
+}
+/*.bottomPanel{
+	bottom: 61px;
+	height: 50px;
+	position: fixed;
+	width: 100%;
+}*/
+.x-button-back, .x-toolbar .x-button-back {
+margin-left: 0.87217em !important;
+padding: 0.3px 5px !important;
+}
+.custom_info{
+	background: url('../../images/location/callout.png') no-repeat fixed center; 		
+	/*height:50px;
+	width:200 px;
+	border:solid 1px red;	*/
+}
+.custom_info img{
+	float: left;
+	height:40px;
+}
+.custom_info div{
+	float: left;
+}
+.infobox-wrapper {
+            display:none;
+        }
+        #infobox {
+            background: url('../../images/location/callout.png') no-repeat;
+            
+            position: absolute;
+            width: 221px;
+            height: 59px;
+
+        }
+           #infobox div{
+            float: left;
+            font-size:15px;
+            padding: 10px;
+            font-weight: bold;
+
+        }
+        .arrow{
+            vertical-align: middle;
+            float: right;
+            position: relative;
+            top: 10px;
+            right:5px;
+        }
+        .fast-food{
+            vertical-align: middle;
+            float: left;
+            position: relative;
+            
+
+        }
+.loyaltyHeading{
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+.loyaltyPoints{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
